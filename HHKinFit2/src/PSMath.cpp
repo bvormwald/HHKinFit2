@@ -1,5 +1,5 @@
 #ifdef HHKINFIT2
-#include "PSMath.h"
+#include "HHKinFit2/HHKinFit2/interface/PSMath.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/PSMath.h"
 #endif

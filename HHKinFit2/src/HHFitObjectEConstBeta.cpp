@@ -1,5 +1,5 @@
 #ifdef HHKINFIT2
-#include "HHKinFit2/HHKinFit2/HHFitObjectEConstBeta.h"
+#include "HHKinFit2/HHKinFit2/interface/HHFitObjectEConstBeta.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyRangeException.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyConstraintException.h"
 #else

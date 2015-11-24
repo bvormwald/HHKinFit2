@@ -1,6 +1,6 @@
 #ifdef HHKINFIT2
-#include "HHKinFit2/HHKinFit2/HHFitObjectMET.h"
-#include "HHKinFit2/HHKinFit2/HHLorentzVector.h"
+#include "HHKinFit2/HHKinFit2/interface/HHFitObjectMET.h"
+#include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitObjectMET.h"
 #include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"

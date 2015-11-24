@@ -1,5 +1,5 @@
 #ifdef HHKINFIT2
-#include "HHKinFit2/HHKinFit2/HHLorentzVector.h"
+#include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyRangeException.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"

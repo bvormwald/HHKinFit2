@@ -6,8 +6,8 @@
 #define HHFitObjectConstM_
 
 #ifdef HHKINFIT2
-#include "HHKinFit2/HHKinFit2/HHLorentzVector.h"
-#include "HHKinFit2/HHKinFit2/HHFitObjectE.h"
+#include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"
+#include "HHKinFit2/HHKinFit2/interface/HHFitObjectE.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"
 #include "HHKinFit2/HHKinFit2/interface/HHFitObjectE.h"

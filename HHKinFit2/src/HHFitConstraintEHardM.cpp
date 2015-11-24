@@ -1,6 +1,6 @@
 #ifdef HHKINFIT2
-#include "HHKinFit2/HHKinFit2/HHFitConstraintEHardM.h"
-#include "HHKinFit2/HHKinFit2/HHFitObjectE.h"
+#include "HHKinFit2/HHKinFit2/interface/HHFitConstraintEHardM.h"
+#include "HHKinFit2/HHKinFit2/interface/HHFitObjectE.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyRangeException.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHInvMConstraintException.h"
 #else

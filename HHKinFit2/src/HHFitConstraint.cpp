@@ -1,5 +1,5 @@
 #ifdef HHKINFIT2
-#include "HHKinFit2/HHKinFit2/HHFitConstraint.h"
+#include "HHKinFit2/HHKinFit2/interface/HHFitConstraint.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitConstraint.h"
 #endif
