@@ -1,6 +1,6 @@
 #ifdef HHKINFIT2
-#include "HHFitConstraintSoftBoundary.h"
-#include "exceptions/HHCovarianceMatrixException.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraintSoftBoundary.h"
+#include "HHKinFit2/HHKinFit2/interface/exceptions/HHCovarianceMatrixException.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitConstraintSoftBoundary.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHCovarianceMatrixException.h"

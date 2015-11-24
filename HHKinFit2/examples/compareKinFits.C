@@ -1,4 +1,4 @@
-#include "HHTauTauEventGenerator.h"
+#include "HHKinFit2/HHKinFit2/HHTauTauEventGenerator.h"
 
 #include <iostream>
 
@@ -7,21 +7,21 @@
 #include "TGraph.h"
 #include "TCanvas.h"
 
-#include "HHKinFit.h"
-#include "HHFitConstraint4Vector.h"
-#include "HHFitConstraintEHardM.h"
-#include "HHFitConstraint.h"
-#include "HHFitConstraintLikelihood.h"
-#include "HHFitObjectEConstM.h"
-#include "HHFitObjectE.h"
-#include "HHFitObjectMET.h"
-#include "HHFitObject.h"
-#include "HHFitObjectComposite.h"
-#include "HHLorentzVector.h"
-#include "exceptions/HHCovarianceMatrixException.h"
-#include "exceptions/HHEnergyRangeException.h"
+#include "HHKinFit2/HHKinFit2/HHKinFit.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraint4Vector.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraintEHardM.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraint.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraintLikelihood.h"
+#include "HHKinFit2/HHKinFit2/HHFitObjectEConstM.h"
+#include "HHKinFit2/HHKinFit2/HHFitObjectE.h"
+#include "HHKinFit2/HHKinFit2/HHFitObjectMET.h"
+#include "HHKinFit2/HHKinFit2/HHFitObject.h"
+#include "HHKinFit2/HHKinFit2/HHFitObjectComposite.h"
+#include "HHKinFit2/HHKinFit2/HHLorentzVector.h"
+#include "HHKinFit2/HHKinFit2/interface/exceptions/HHCovarianceMatrixException.h"
+#include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyRangeException.h"
 
-#include "HHKinFitSingleHMaster.h"
+#include "HHKinFit2/HHKinFit2/HHKinFitSingleHMaster.h"
 
 #include <time.h>
 

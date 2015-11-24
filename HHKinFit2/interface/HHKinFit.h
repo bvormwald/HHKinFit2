@@ -9,8 +9,8 @@
 #include <vector>
 
 #ifdef HHKINFIT2
-#include "HHFitObjectE.h"
-#include "HHFitConstraint.h"
+#include "HHKinFit2/HHKinFit2/HHFitObjectE.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraint.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitObjectE.h"
 #include "HHKinFit2/HHKinFit2/interface/HHFitConstraint.h"

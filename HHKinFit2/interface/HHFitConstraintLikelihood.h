@@ -6,8 +6,8 @@
 #define HHFitConstraintLikelihood_
 
 #ifdef HHKINFIT2
-#include "HHFitConstraint.h"
-#include "HHFitObject.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraint.h"
+#include "HHKinFit2/HHKinFit2/HHFitObject.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitConstraint.h"
 #include "HHKinFit2/HHKinFit2/interface/HHFitObject.h"

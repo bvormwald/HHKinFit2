@@ -6,7 +6,7 @@
 #define HHFitConstraint_
 
 #ifdef HHKINFIT2
-#include "HHFitObject.h"
+#include "HHKinFit2/HHKinFit2/HHFitObject.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitObject.h"
 #endif

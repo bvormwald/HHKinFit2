@@ -1,6 +1,6 @@
 #ifdef HHKINFIT2
-#include "HHFitConstraint4Vector.h"
-#include "exceptions/HHCovarianceMatrixException.h"
+#include "HHKinFit2/HHKinFit2/HHFitConstraint4Vector.h"
+#include "HHKinFit2/HHKinFit2/interface/exceptions/HHCovarianceMatrixException.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitConstraint4Vector.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHCovarianceMatrixException.h"

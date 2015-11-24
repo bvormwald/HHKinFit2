@@ -1,5 +1,5 @@
-#include "HHEventGenerator.h"
-#include "HHLorentzVector.h"
+#include "HHKinFit2/HHKinFit2/HHEventGenerator.h"
+#include "HHKinFit2/HHKinFit2/HHLorentzVector.h"
 
 #include "TF1.h"
 #include <iostream>

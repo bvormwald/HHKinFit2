@@ -1,7 +1,7 @@
 #ifdef HHKINFIT2
-#include "HHFitObjectEConstBeta.h"
-#include "exceptions/HHEnergyRangeException.h"
-#include "exceptions/HHEnergyConstraintException.h"
+#include "HHKinFit2/HHKinFit2/HHFitObjectEConstBeta.h"
+#include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyRangeException.h"
+#include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyConstraintException.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHFitObjectEConstBeta.h"
 #include "HHKinFit2/HHKinFit2/interface/exceptions/HHEnergyRangeException.h"

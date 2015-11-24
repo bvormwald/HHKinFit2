@@ -6,8 +6,8 @@
 #include <TVector2.h>
 
 #ifdef HHKINFIT2
-#include "HHLorentzVector.h"
-#include "HHKinFit.h"
+#include "HHKinFit2/HHKinFit2/HHLorentzVector.h"
+#include "HHKinFit2/HHKinFit2/HHKinFit.h"
 #else
 #include "HHKinFit2/HHKinFit2/interface/HHLorentzVector.h"
 #include "HHKinFit2/HHKinFit2/interface/HHKinFit.h"
