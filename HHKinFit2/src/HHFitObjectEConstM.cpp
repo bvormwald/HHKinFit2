@@ -61,11 +61,11 @@ double HHKinFit2::HHFitObjectEConstM::calculateEConstrainedToMinv(double m, HHLo
   double cosa = (P1x*P2x+P1y*P2y+P1z*P2z)/(P1*P2);
   double E2new = -1;
 
-  double cp;
-  double dp;
-  double a;
-  double b;
-  double c;
+  double cp = 0.0;
+  double dp = 0.0;
+  double a = 0.0;
+  double b = 0.0;
+  double c = 0.0;
 
   if(cosa==0){
     E2new=C/E1;
