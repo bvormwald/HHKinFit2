@@ -4,7 +4,7 @@
 #include "TLorentzVector.h"
 #include "TVector2.h"
 #include "TMatrixD.h"
-#include "HHKinFit2/HHKinFit2/HHKinFitMasterSingleHiggs.h"
+#include "HHKinFit2/HHKinFit2/interface/HHKinFitMasterSingleHiggs.h"
 
 #include "TGraph.h" 
 #include "TFile.h" 

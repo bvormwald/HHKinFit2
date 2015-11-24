@@ -1,0 +1,53 @@
+<!--
+<bin name="compare2DKinFits" file="compare2DKinFits.C">
+	<Flags CXXFLAGS="-g" />
+	<Flags LDFLAGS="-rdynamic" />
+	<flags EDM_PLUGIN="1"/>
+	<use name="HHKinFit2/HHKinFit2" />
+	<use name="root" />
+</bin>
+-->
+
+<!--
+<bin name="compareKinFits" file="compareKinFits.C">
+	<Flags CXXFLAGS="-g" />
+	<Flags LDFLAGS="-rdynamic" />
+	<flags EDM_PLUGIN="1"/>
+	<use name="HHKinFit2/HHKinFit2" />
+	<use name="root" />
+</bin>
+-->
+
+<bin name="fitSingleEvent1DKinFit" file="fitSingleEvent1DKinFit.C">
+	<Flags CXXFLAGS="-g" />
+	<Flags LDFLAGS="-rdynamic" />
+	<flags EDM_PLUGIN="1"/>
+	<use name="HHKinFit2/HHKinFit2" />
+	<use name="root" />
+</bin>
+
+<bin name="fitSingleEvent2DKinFit" file="fitSingleEvent2DKinFit.C">
+	<Flags CXXFLAGS="-g" />
+	<Flags LDFLAGS="-rdynamic" />
+	<flags EDM_PLUGIN="1"/>
+	<use name="HHKinFit2/HHKinFit2" />
+	<use name="root" />
+</bin>
+
+<!--
+<bin name="gensimHH" file="gensimHH.C">
+	<Flags CXXFLAGS="-g" />
+	<Flags LDFLAGS="-rdynamic" />
+	<flags EDM_PLUGIN="1"/>
+	<use name="HHKinFit2/HHKinFit2" />
+	<use name="root" />
+</bin>
+-->
+
+<bin name="main" file="main.C">
+	<Flags CXXFLAGS="-g" />
+	<Flags LDFLAGS="-rdynamic" />
+	<flags EDM_PLUGIN="1"/>
+	<use name="HHKinFit2/HHKinFit2" />
+	<use name="root" />
+</bin>
